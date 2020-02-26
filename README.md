@@ -1,9 +1,15 @@
 # merlin-sabre-restore
-Bits for restoring a fibreglass austrlian speedboat
+Bits for restoring a fibreglass austrlian speedboat, A Merlin Sabre outboard.
 
-## Dash Panel Icons.
+## Dashboard Panels
 
-Dash panel icons are from the noun project under CC Attribution licence.
+Dash Panels are setup to be laser cut at (online laser cutting)[https://onlinelasercutting.com.au], there is a layer for annotations and one for the cutting.
+
+Dashpanels have been made in inkscape.
+
+### Dash Panel Icons.
+
+Dash panel icons are from the (noun project)[https://thenounproject.com/] under CC Attribution licence.
 
  * Battery - Wira Wianda
  * Outboard Motor - Nikolay Necheuhin

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1218"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="blank-plate-150h.svg">
+   <style>
+      .cut {
+         stroke: #FF0000;
+         stroke-width: 0.01pt;
+         opacity:1;
+         fill:#ffffff;
+         fill-opacity:0;
+      }
+      .etch {
+         stroke: #FF0000;
+         stroke-width: 0.01pt;
+         opacity:1;
+         fill:#ffffff;
+         fill-opacity:0;
+      }
+      .print {
+         stroke: #000000;
+         stroke-width: 0.0pt;
+         stroke-opacity: 0;
+         fill:#000000;
+         fill-opacity:1;
+      }
+  </style>
+  <defs
+     id="defs1212" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.7840779"
+     inkscape:cx="101.76029"
+     inkscape:cy="357.94058"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1600"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1215">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       class="cut"
+       id="rect815-1"
+       width="129.96587"
+       height="149.96587"
+       x="0.01706706"
+       y="147.01707"
+       ry="3.0941362" />
+    <circle
+       class="cut"
+       id="path2144"
+       cx="4.5919356"
+       cy="151.40807"
+       r="1.574325" />
+    <circle
+       class="cut"
+       id="path2144-5"
+       cx="125.5"
+       cy="292.5"
+       r="1.4834065" />
+    <circle
+       class="cut"
+       id="path2144-9"
+       cx="125.5"
+       cy="151.5"
+       r="1.4834065" />
+    <ellipse
+       class="cut"
+       id="path2144-7"
+       cx="4.5"
+       cy="292.5"
+       rx="1.4834067"
+       ry="1.4834065" />
+  </g>
+</svg>
